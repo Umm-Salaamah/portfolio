@@ -9,7 +9,7 @@
 - A landing page
 - Room Homepage 
 - And so on.
-#Skills
+# Skills
 - HTML
 - CSS
 - JavaScript
