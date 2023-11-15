@@ -1,0 +1,33 @@
+/*Color
+1 #0d060f
+2 #1e2824
+3 #5d3c18
+#766b65
+#230000*/
+html{
+    scroll-behavior: smooth;
+}
+.f-page{
+    height: 100vh;
+    background-color: #caf0f8 ;
+}
+.second{
+    height: 70vh;
+}
+.btn-primary{
+    background-color: #f07167 !important;
+}
+a{
+    color: #03045e !important;
+}
+i{
+    font-size: 28px;
+}
+a:hover{
+    background-color: #f07167 !important;
+}
+@media (max-width: 786px) {
+    .second{
+        height: 120vh;
+    }  
+}
